@@ -1,3 +1,6 @@
+#I wanted to automize the tidious process where at the end of the month me and my partner want to pay fairly for what we bought.
+#I'm pretty new to python, and to GitHub too so I'm sorry if I did something wrong. 
+
 class Payment():
 
     def __init__(self, name):
